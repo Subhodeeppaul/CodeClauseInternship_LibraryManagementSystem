@@ -201,7 +201,7 @@ public class Issue extends javax.swing.JFrame {
         jLabel6.setForeground(new java.awt.Color(255, 255, 255));
         jLabel6.setText("Book");
 
-        txtbook.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Java", "Os", "Css", "Datastructure", "Networking", "O lovely", "Storybook", "Khela Hobe", "Joy Mohunbagan", "DSA" }));
+        txtbook.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Java", "Os", "Css", "DataBase", "Networking", "O lovely", "Storybook", "Khela Hobe", "Joy Mohunbagan", "DSA" }));
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);

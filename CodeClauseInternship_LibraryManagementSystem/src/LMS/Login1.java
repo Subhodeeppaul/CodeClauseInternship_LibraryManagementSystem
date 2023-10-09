@@ -129,7 +129,7 @@ public class Login1 extends javax.swing.JFrame {
         // TODO add your handling code here:
         String name=txtusername.getText();
         String pas=txtpass.getText();
-        if(name.equals("Subhodeep")&&pas.equals("123")){
+        if(name.equals("JoyMohunbagan")&&pas.equals("000")){
             Main m=new Main();
             this.hide();
             m.setVisible(true);
